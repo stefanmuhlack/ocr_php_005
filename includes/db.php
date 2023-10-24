@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$db   = 'your_database_name';
+$db   = 'MySQL80';
 $user = 'root';
-$pass = ''; // default is empty for XAMPP
+$pass = 'alt0s'; // default is empty for XAMPP
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
